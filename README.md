@@ -1,1 +1,3 @@
-# leet_code_study
+This directory is used to include leetcode study notes.
+
+
